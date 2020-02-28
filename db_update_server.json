@@ -4,6 +4,7 @@
     "bus_data":{
         "version":20200224,
         "files_link":{
+            "expected_total_binary_bytes":151519232,
             "link_prefix_pattern_if_exists":"https://github.com/imscs21/ROK_oreaTransportation/raw/master/db/bus_db.tar.gz.part.a",
             "use_link_prefix":true,
             "links":["a","b","c","d","e","f"]
