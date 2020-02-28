@@ -6,7 +6,7 @@
         "files_link":{
             "link_prefix_pattern_if_exists":"https://github.com/imscs21/ROK_oreaTransportation/raw/master/db/bus_db.tar.gz.part.a",
             "use_link_prefix":true,
-            "links":["a","b","c","d","d","e","f"]
+            "links":["a","b","c","d","e","f"]
         }
     },
     "train_data":{
